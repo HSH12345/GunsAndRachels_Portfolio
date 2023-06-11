@@ -29,4 +29,4 @@
 
 
 
-[구글 플레이 바로가기](https://play.google.com/store/apps/details?id=com.teamvizeon.gunsandrachels&hl=ko&gl=KR, "검색 엔진")
+[구글 플레이 바로가기](https://play.google.com/store/apps/details?id=com.teamvizeon.gunsandrachels&hl=ko&gl=KR)
