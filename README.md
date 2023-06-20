@@ -25,7 +25,7 @@
 
 *스킬*
 
-각각 스킬 버튼은 타입을 가지며 해당 타입에 맞도록 작동합니다.
+각각 스킬 버튼은 타입을 가지며 해당 타입에 맞도록 작동합니다. 스킬 상단 빗금표시에서 터치를 해제하면 스킬을 취소합니다.
 
 
 
@@ -38,11 +38,10 @@
 게임 내의 아이템을 획득하여 기본 총기를 변경할 수 있습니다. 이 때 총기에 따라 공격속도, 공격력 공식이 다르게 적용됩니다.
 
 
-<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/212f7f45-aa89-4f77-b6bf-fe49e0b49670" width="50%" height="50%">
-
-
-
 # 스킬
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/212f7f45-aa89-4f77-b6bf-fe49e0b49670" width="50%" height="50%">
 
 *돌격소총 스킬 1*
 
@@ -127,5 +126,42 @@
 
 
 
+
+# 총기 특수효과 (고대유물)
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/da17b4ab-7e5b-473b-ab78-e48e68e9325f" width="50%" height="50%">
+
+*레이저 사이트*
+
+기본 공격의 탄환 방향으로 LineRenderer를 사용하여 레이저 효과를 만듭니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/e17fb25a-50b0-4c56-90e7-cea2b24bd328" width="50%" height="50%">
+
+*대시 공격*
+
+플레이어가 대시하는 동안 적과 충돌하면 적에게 피해를 입힙니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/70c9a5fc-4723-4903-9b6b-0051881cb6f5" width="50%" height="50%">
+
+*방어 탄환*
+
+플레이어의 기본 공격 탄환이 적 탄환과 충돌하여 파괴합니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/3372d74c-ca56-4efe-8175-94f35cc8acc0" width="50%" height="50%">
+
+*독 탄환*
+
+플레이어의 기본 공격 탄환이 적에게 적중할 시 중독효과를 만들어 지속적인 피해를 입힙니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/94d64894-da96-49b4-b19b-4d6bb871358d" width="50%" height="50%">
+
+*유탄발사기*
+
+플레이어가 기본 공격을 하는 동안 유탄을 추가로 발사하여 적에게 피해를 입힙니다.
 
 [구글 플레이 바로가기](https://play.google.com/store/apps/details?id=com.teamvizeon.gunsandrachels&hl=ko&gl=KR)
