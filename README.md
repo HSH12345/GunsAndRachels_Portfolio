@@ -59,4 +59,25 @@
 플레이어를 중심으로 근거리 Skill Indicator를 활성화하여 캐릭터가 바라보는 방향으로 스킬이 생성되어 적을 타격합니다. 총 3회 타격하며 중복 타격 하지 않기 위해 HashSet을 사용합니다.
 
 
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/deaa660b-d0e5-453b-a874-25b70d131ab3" width="50%" height="50%">
+
+*저격소총 스킬 1*
+
+플레이어를 중심으로 직선형 Skill Indicator를 활성화하여 해당 방향으로 진행하는 탄환형 스킬입니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/3c3e8106-690d-4489-8b84-b98d3244267e" width="50%" height="50%">
+
+*저격소총 스킬 2*
+
+플레이어를 중심으로 직선형 Skill Indicator를 활성화하여 해당 방향으로 스킬이 생성되며 Physics2D를 사용하여 특정 범위에 들어온 적을 타격합니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/cf7c102a-28d4-473b-a037-7cab42fcac22" width="50%" height="50%">
+
+*저격소총 스킬 3*
+
+플레이어를 중심으로 원형 Skill Indicator를 활성화하여 지정된 위치에 스킬을 생성하여 해당 범위의 적에게 피해를 입힙니다.
+
+
 [구글 플레이 바로가기](https://play.google.com/store/apps/details?id=com.teamvizeon.gunsandrachels&hl=ko&gl=KR)
