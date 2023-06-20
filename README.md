@@ -40,6 +40,10 @@
 
 <img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/212f7f45-aa89-4f77-b6bf-fe49e0b49670" width="50%" height="50%">
 
+
+
+# 스킬
+
 *돌격소총 스킬 1*
 
 플레이어를 중심으로 직선형 Skill Indicator를 활성화하여 해당 방향으로 진행하는 탄환형 스킬입니다.
@@ -78,6 +82,50 @@
 *저격소총 스킬 3*
 
 플레이어를 중심으로 원형 Skill Indicator를 활성화하여 지정된 위치에 스킬을 생성하여 해당 범위의 적에게 피해를 입힙니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/81c3ef41-4ca6-459e-829f-539f58cbd073" width="50%" height="50%">
+
+*샷건 스킬 1*
+
+플레이어를 중심으로 직선형 Skill Indicator를 활성화하여 해당 방향으로 진행하는 탄환형 스킬입니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/c52aa465-b35f-4452-a726-097355c064ab" width="50%" height="50%">
+
+*샷건 스킬 2*
+
+버튼을 터치하여 즉시 사용되며 일정 시간동안 공격속도를 증가시키는 버프형 스킬입니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/ef1c6b73-ab90-46df-87a9-421bdfddf70f" width="50%" height="50%">
+
+*샷건 스킬 3*
+
+버튼을 터치하여 플레이어를 중심으로 적에게 피해를 주는 스킬을 생성합니다. 몬스터의 bool타입 변수값을 활용하여 특정 시간동안 중복 데미지를 입지 안도록합니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/29ddfaa1-a66a-41e7-9759-6291197fe204" width="50%" height="50%">
+
+*기관단총 스킬 1*
+
+플레이어를 중심으로 직선형 Skill Indicator를 활성화하여 해당 방향으로 진행하는 탄환형 스킬입니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/1f544bf3-f15a-463f-9b2a-b8282923c219" width="50%" height="50%">
+
+*기관단총 스킬 2*
+
+버튼을 터치하여 즉시 사용되며 일정 시간동안 치명타확률을 증가시키는 버프형 스킬입니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/944e13f5-8ad3-4682-8cfd-969ae843f1d6" width="50%" height="50%">
+
+*기관단총 스킬 3*
+
+플레이어를 중심으로 원형 Skill Indicator를 활성화하여 지정된 위치에 스킬을 생성하여 해당 범위의 적에게 피해를 입힙니다.
+
+
 
 
 [구글 플레이 바로가기](https://play.google.com/store/apps/details?id=com.teamvizeon.gunsandrachels&hl=ko&gl=KR)
