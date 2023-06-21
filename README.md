@@ -6,7 +6,7 @@
 
 **조이스틱**
 
-  
+  <br/>
 <img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/2aa0be08-fa9a-4e14-9ab4-4f59fef79f1f" width="50%" height="50%">
 
 *이동*
