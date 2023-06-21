@@ -32,6 +32,13 @@
 # 전투
 
 <br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/ed3496ae-1349-41b8-a1b1-c0ce706f97f9)" width="50%" height="50%">
+
+*피격*
+
+플레이어가 몬스터와 충돌 시 좌상단 HP(하트)가 소모되며 HP가 0이되면 플레이어가 죽게됩니다. (하단에 배너광고가 생성됩니다.)
+
+<br/>
 <img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/0912fd66-ae4d-4c93-bf74-187c03a5e22b" width="50%" height="50%">
 
 *총기 변경*
@@ -46,6 +53,14 @@
 *탄환*
 
 총기 숙련도 레벨이 10, 20, 30일 때마다 탄환의 모양이 변경됩니다.
+
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/66c1658c-9d3a-429b-84b8-1e0216e2f3dc" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/adca9aab-e7e8-4ba7-aae1-365ac468073a" width="50%" height="50%">
+
+*대시*
+
+총기 숙련도 레벨이 오를 때마다 대시 회복시간을 빠르게 할 수 있습니다.
 
 <br/><br/>
 # 스킬
