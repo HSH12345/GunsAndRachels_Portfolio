@@ -62,6 +62,38 @@
 
 총기 숙련도 레벨이 오를 때마다 대시 회복시간을 빠르게 할 수 있습니다.
 
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/940a86d6-97e2-47d9-ac57-ea4d6d5c3c4a" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/9c23e0cc-77d5-4f71-819a-6de1334211f7" width="50%" height="50%">
+
+*이동 속도*
+
+총기 숙련도 레벨이 오를 때마다 이동 속도를 빠르게 할 수 있습니다.
+
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/086c42bb-aeae-4956-b27c-7cbc617297fc" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/7bb48b0d-4fe1-4835-9390-40fdf6b95798" width="50%" height="50%">
+
+*넉백*
+
+총기 숙련도 레벨이 오를 때마다 넉백을 강하게 할 수 있습니다.
+
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/40986d27-ddaa-478e-9462-bb8da643e529" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/53eb9a70-ec50-476c-ad25-b4ef331dc88a" width="50%" height="50%">
+
+*관통*
+
+총기 숙련도 레벨이 오를 때마다 일반 탄환 공격이 더 많은 적을 관통하도록 할 수 있습니다.
+
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/ea519b60-486b-4f35-be6b-9f426b1d254b" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/8fc6736e-f1f1-4d43-b6e5-c5a7ae2fe799" width="50%" height="50%">
+
+*탄환 갯수*
+
+총기 숙련도 레벨이 오를 때마다 더 많은 탄환을 발사하도록 할 수 있습니다.
+
 <br/><br/>
 # 스킬
 
