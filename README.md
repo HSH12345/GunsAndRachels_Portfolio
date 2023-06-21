@@ -1,6 +1,12 @@
 ## GunsAndRachels_Portfolio
-
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Hong's%20Portfolio&fontSize=90)
+# 목차
+  <br/>
+[조작](#조작)
+[전투](#전투)
+[스킬](#스킬)
+[총기 특수효과 (고대유물)](#총기-특수효과-(고대유물))
+[몬스터](#몬스터)
+[UI](#UI)
 
 # 조작
 
@@ -282,6 +288,10 @@
 *자폭 몬스터*
 
 자폭 몬스터는 플레이어와의 거리를 계산하여 특정 거리 이하에서 플레이어에게 대시하여 자폭합니다.
+
+<br/><br/>
+# UI
+
 
 <br/><br/><br/>
 [구글 플레이 바로가기](https://play.google.com/store/apps/details?id=com.teamvizeon.gunsandrachels&hl=ko&gl=KR)
