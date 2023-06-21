@@ -17,7 +17,7 @@ public class SniperRifleSkill_02 : PlayerActiveSkill
         this.transform.parent = this.transBuffPoint;
         this.knockbackSpeed = 50000;
         base.Init(gunShell);
-        this.damage = this.damage = this.damage = InfoManager.instance.statInfo.BattleRate * 5;
+        this.damage = InfoManager.instance.statInfo.BattleRate * 5;
     }
     public void Update()
     {        

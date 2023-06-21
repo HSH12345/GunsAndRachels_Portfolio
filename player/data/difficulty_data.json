@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 13000,
+    "monsterAmount": 3,
+    "monsterHP": 60,
+    "monsterDefense": 10,
+    "roomId": 0
+  },
+  {
+    "id": 13001,
+    "monsterAmount": 3,
+    "monsterHP": 60,
+    "monsterDefense": 10,
+    "roomId": 0
+  },
+  {
+    "id": 13002,
+    "monsterAmount": 3,
+    "monsterHP": 70,
+    "monsterDefense": 10,
+    "roomId": 0
+  },
+  {
+    "id": 13003,
+    "monsterAmount": 3,
+    "monsterHP": 70,
+    "monsterDefense": 10,
+    "roomId": 0
+  },
+  {
+    "id": 13004,
+    "monsterAmount": 3,
+    "monsterHP": 80,
+    "monsterDefense": 10,
+    "roomId": 0
+  },
+  {
+    "id": 13005,
+    "monsterAmount": 3,
+    "monsterHP": 80,
+    "monsterDefense": 10,
+    "roomId": 0
+  },
+  {
+    "id": 13006,
+    "monsterAmount": 3,
+    "monsterHP": 90,
+    "monsterDefense": 10,
+    "roomId": 0
+  },
+  {
+    "id": 13007,
+    "monsterAmount": 3,
+    "monsterHP": 90,
+    "monsterDefense": 10,
+    "roomId": 0
+  },
+  {
+    "id": 13008,
+    "monsterAmount": 4,
+    "monsterHP": 100,
+    "monsterDefense": 10,
+    "roomId": 0
+  },
+  {
+    "id": 13009,
+    "monsterAmount": 4,
+    "monsterHP": 100,
+    "monsterDefense": 10,
+    "roomId": 0
+  },
+  {
+    "id": 13010,
+    "monsterAmount": 4,
+    "monsterHP": 110,
+    "monsterDefense": 10,
+    "roomId": 0
+  },
+  {
+    "id": 13011,
+    "monsterAmount": 4,
+    "monsterHP": 120,
+    "monsterDefense": 10,
+    "roomId": 0
+  },
+  {
+    "id": 13012,
+    "monsterAmount": 3,
+    "monsterHP": 170,
+    "monsterDefense": 15,
+    "roomId": 1
+  },
+  {
+    "id": 13013,
+    "monsterAmount": 3,
+    "monsterHP": 190,
+    "monsterDefense": 15,
+    "roomId": 1
+  },
+  {
+    "id": 13014,
+    "monsterAmount": 4,
+    "monsterHP": 210,
+    "monsterDefense": 15,
+    "roomId": 1
+  },
+  {
+    "id": 13015,
+    "monsterAmount": 4,
+    "monsterHP": 230,
+    "monsterDefense": 15,
+    "roomId": 1
+  },
+  {
+    "id": 13016,
+    "monsterAmount": 4,
+    "monsterHP": 250,
+    "monsterDefense": 15,
+    "roomId": 1
+  },
+  {
+    "id": 13017,
+    "monsterAmount": 3,
+    "monsterHP": 270,
+    "monsterDefense": 15,
+    "roomId": 1
+  },
+  {
+    "id": 13018,
+    "monsterAmount": 4,
+    "monsterHP": 290,
+    "monsterDefense": 15,
+    "roomId": 1
+  },
+  {
+    "id": 13019,
+    "monsterAmount": 4,
+    "monsterHP": 310,
+    "monsterDefense": 15,
+    "roomId": 1
+  },
+  {
+    "id": 13020,
+    "monsterAmount": 4,
+    "monsterHP": 330,
+    "monsterDefense": 15,
+    "roomId": 1
+  },
+  {
+    "id": 13021,
+    "monsterAmount": 4,
+    "monsterHP": 350,
+    "monsterDefense": 15,
+    "roomId": 1
+  },
+  {
+    "id": 13022,
+    "monsterAmount": 4,
+    "monsterHP": 370,
+    "monsterDefense": 15,
+    "roomId": 1
+  },
+  {
+    "id": 13023,
+    "monsterAmount": 4,
+    "monsterHP": 390,
+    "monsterDefense": 15,
+    "roomId": 1
+  },
+  {
+    "id": 13024,
+    "monsterAmount": 7,
+    "monsterHP": 500,
+    "monsterDefense": 20,
+    "roomId": 2
+  },
+  {
+    "id": 13025,
+    "monsterAmount": 7,
+    "monsterHP": 520,
+    "monsterDefense": 20,
+    "roomId": 2
+  },
+  {
+    "id": 13026,
+    "monsterAmount": 7,
+    "monsterHP": 560,
+    "monsterDefense": 20,
+    "roomId": 2
+  },
+  {
+    "id": 13027,
+    "monsterAmount": 7,
+    "monsterHP": 580,
+    "monsterDefense": 20,
+    "roomId": 2
+  },
+  {
+    "id": 13028,
+    "monsterAmount": 7,
+    "monsterHP": 600,
+    "monsterDefense": 20,
+    "roomId": 2
+  },
+  {
+    "id": 13029,
+    "monsterAmount": 8,
+    "monsterHP": 650,
+    "monsterDefense": 20,
+    "roomId": 2
+  },
+  {
+    "id": 13030,
+    "monsterAmount": 8,
+    "monsterHP": 700,
+    "monsterDefense": 20,
+    "roomId": 2
+  },
+  {
+    "id": 13031,
+    "monsterAmount": 8,
+    "monsterHP": 750,
+    "monsterDefense": 20,
+    "roomId": 2
+  },
+  {
+    "id": 13032,
+    "monsterAmount": 8,
+    "monsterHP": 800,
+    "monsterDefense": 20,
+    "roomId": 2
+  },
+  {
+    "id": 13033,
+    "monsterAmount": 9,
+    "monsterHP": 850,
+    "monsterDefense": 20,
+    "roomId": 2
+  },
+  {
+    "id": 13034,
+    "monsterAmount": 9,
+    "monsterHP": 900,
+    "monsterDefense": 20,
+    "roomId": 2
+  },
+  {
+    "id": 13035,
+    "monsterAmount": 9,
+    "monsterHP": 1000,
+    "monsterDefense": 20,
+    "roomId": 2
+  },
+  {
+    "id": 13036,
+    "monsterAmount": 4,
+    "monsterHP": 1100,
+    "monsterDefense": 25,
+    "roomId": 3
+  },
+  {
+    "id": 13037,
+    "monsterAmount": 4,
+    "monsterHP": 1200,
+    "monsterDefense": 25,
+    "roomId": 3
+  },
+  {
+    "id": 13038,
+    "monsterAmount": 4,
+    "monsterHP": 1300,
+    "monsterDefense": 25,
+    "roomId": 3
+  },
+  {
+    "id": 13039,
+    "monsterAmount": 4,
+    "monsterHP": 1400,
+    "monsterDefense": 25,
+    "roomId": 3
+  },
+  {
+    "id": 13040,
+    "monsterAmount": 4,
+    "monsterHP": 1500,
+    "monsterDefense": 25,
+    "roomId": 3
+  },
+  {
+    "id": 13041,
+    "monsterAmount": 5,
+    "monsterHP": 1600,
+    "monsterDefense": 25,
+    "roomId": 3
+  },
+  {
+    "id": 13042,
+    "monsterAmount": 5,
+    "monsterHP": 1700,
+    "monsterDefense": 25,
+    "roomId": 3
+  },
+  {
+    "id": 13043,
+    "monsterAmount": 5,
+    "monsterHP": 1800,
+    "monsterDefense": 25,
+    "roomId": 3
+  },
+  {
+    "id": 13044,
+    "monsterAmount": 5,
+    "monsterHP": 1900,
+    "monsterDefense": 25,
+    "roomId": 3
+  },
+  {
+    "id": 13045,
+    "monsterAmount": 5,
+    "monsterHP": 2000,
+    "monsterDefense": 25,
+    "roomId": 3
+  },
+  {
+    "id": 13046,
+    "monsterAmount": 6,
+    "monsterHP": 2100,
+    "monsterDefense": 25,
+    "roomId": 3
+  },
+  {
+    "id": 13047,
+    "monsterAmount": 6,
+    "monsterHP": 2200,
+    "monsterDefense": 25,
+    "roomId": 3
+  },
+  {
+    "id": 13048,
+    "monsterAmount": 4,
+    "monsterHP": 2200,
+    "monsterDefense": 30,
+    "roomId": 4
+  },
+  {
+    "id": 13049,
+    "monsterAmount": 4,
+    "monsterHP": 2300,
+    "monsterDefense": 30,
+    "roomId": 4
+  },
+  {
+    "id": 13050,
+    "monsterAmount": 4,
+    "monsterHP": 2400,
+    "monsterDefense": 30,
+    "roomId": 4
+  },
+  {
+    "id": 13051,
+    "monsterAmount": 5,
+    "monsterHP": 2500,
+    "monsterDefense": 30,
+    "roomId": 4
+  },
+  {
+    "id": 13052,
+    "monsterAmount": 5,
+    "monsterHP": 2600,
+    "monsterDefense": 30,
+    "roomId": 4
+  },
+  {
+    "id": 13053,
+    "monsterAmount": 5,
+    "monsterHP": 2700,
+    "monsterDefense": 30,
+    "roomId": 4
+  },
+  {
+    "id": 13054,
+    "monsterAmount": 5,
+    "monsterHP": 2800,
+    "monsterDefense": 30,
+    "roomId": 4
+  },
+  {
+    "id": 13055,
+    "monsterAmount": 6,
+    "monsterHP": 2900,
+    "monsterDefense": 30,
+    "roomId": 4
+  },
+  {
+    "id": 13056,
+    "monsterAmount": 6,
+    "monsterHP": 3000,
+    "monsterDefense": 30,
+    "roomId": 4
+  },
+  {
+    "id": 13057,
+    "monsterAmount": 6,
+    "monsterHP": 3100,
+    "monsterDefense": 30,
+    "roomId": 4
+  },
+  {
+    "id": 13058,
+    "monsterAmount": 6,
+    "monsterHP": 3200,
+    "monsterDefense": 30,
+    "roomId": 4
+  },
+  {
+    "id": 13059,
+    "monsterAmount": 6,
+    "monsterHP": 3300,
+    "monsterDefense": 30,
+    "roomId": 4
+  },
+  {
+    "id": 13060,
+    "monsterAmount": 5,
+    "monsterHP": 3300,
+    "monsterDefense": 35,
+    "roomId": 5
+  },
+  {
+    "id": 13061,
+    "monsterAmount": 5,
+    "monsterHP": 3400,
+    "monsterDefense": 35,
+    "roomId": 5
+  },
+  {
+    "id": 13062,
+    "monsterAmount": 5,
+    "monsterHP": 3500,
+    "monsterDefense": 35,
+    "roomId": 5
+  },
+  {
+    "id": 13063,
+    "monsterAmount": 6,
+    "monsterHP": 3600,
+    "monsterDefense": 35,
+    "roomId": 5
+  },
+  {
+    "id": 13064,
+    "monsterAmount": 6,
+    "monsterHP": 3700,
+    "monsterDefense": 35,
+    "roomId": 5
+  },
+  {
+    "id": 13065,
+    "monsterAmount": 6,
+    "monsterHP": 3800,
+    "monsterDefense": 35,
+    "roomId": 5
+  },
+  {
+    "id": 13066,
+    "monsterAmount": 6,
+    "monsterHP": 3900,
+    "monsterDefense": 35,
+    "roomId": 5
+  },
+  {
+    "id": 13067,
+    "monsterAmount": 7,
+    "monsterHP": 4000,
+    "monsterDefense": 35,
+    "roomId": 5
+  },
+  {
+    "id": 13068,
+    "monsterAmount": 7,
+    "monsterHP": 4100,
+    "monsterDefense": 35,
+    "roomId": 5
+  },
+  {
+    "id": 13069,
+    "monsterAmount": 7,
+    "monsterHP": 4200,
+    "monsterDefense": 35,
+    "roomId": 5
+  },
+  {
+    "id": 13070,
+    "monsterAmount": 7,
+    "monsterHP": 4300,
+    "monsterDefense": 35,
+    "roomId": 5
+  },
+  {
+    "id": 13071,
+    "monsterAmount": 7,
+    "monsterHP": 4400,
+    "monsterDefense": 35,
+    "roomId": 5
+  },
+  {
+    "id": 13072,
+    "monsterAmount": 4,
+    "monsterHP": 4400,
+    "monsterDefense": 40,
+    "roomId": 6
+  },
+  {
+    "id": 13073,
+    "monsterAmount": 4,
+    "monsterHP": 4500,
+    "monsterDefense": 40,
+    "roomId": 6
+  },
+  {
+    "id": 13074,
+    "monsterAmount": 4,
+    "monsterHP": 4600,
+    "monsterDefense": 40,
+    "roomId": 6
+  },
+  {
+    "id": 13075,
+    "monsterAmount": 5,
+    "monsterHP": 4700,
+    "monsterDefense": 40,
+    "roomId": 6
+  },
+  {
+    "id": 13076,
+    "monsterAmount": 5,
+    "monsterHP": 4800,
+    "monsterDefense": 40,
+    "roomId": 6
+  },
+  {
+    "id": 13077,
+    "monsterAmount": 5,
+    "monsterHP": 4900,
+    "monsterDefense": 40,
+    "roomId": 6
+  },
+  {
+    "id": 13078,
+    "monsterAmount": 5,
+    "monsterHP": 5000,
+    "monsterDefense": 40,
+    "roomId": 6
+  },
+  {
+    "id": 13079,
+    "monsterAmount": 6,
+    "monsterHP": 5100,
+    "monsterDefense": 40,
+    "roomId": 6
+  },
+  {
+    "id": 13080,
+    "monsterAmount": 6,
+    "monsterHP": 5200,
+    "monsterDefense": 40,
+    "roomId": 6
+  },
+  {
+    "id": 13081,
+    "monsterAmount": 6,
+    "monsterHP": 5300,
+    "monsterDefense": 40,
+    "roomId": 6
+  },
+  {
+    "id": 13082,
+    "monsterAmount": 6,
+    "monsterHP": 5400,
+    "monsterDefense": 40,
+    "roomId": 6
+  },
+  {
+    "id": 13083,
+    "monsterAmount": 6,
+    "monsterHP": 5500,
+    "monsterDefense": 40,
+    "roomId": 6
+  },
+  {
+    "id": 13084,
+    "monsterAmount": 4,
+    "monsterHP": 5500,
+    "monsterDefense": 45,
+    "roomId": 7
+  },
+  {
+    "id": 13085,
+    "monsterAmount": 4,
+    "monsterHP": 5600,
+    "monsterDefense": 45,
+    "roomId": 7
+  },
+  {
+    "id": 13086,
+    "monsterAmount": 4,
+    "monsterHP": 5700,
+    "monsterDefense": 45,
+    "roomId": 7
+  },
+  {
+    "id": 13087,
+    "monsterAmount": 4,
+    "monsterHP": 5800,
+    "monsterDefense": 45,
+    "roomId": 7
+  },
+  {
+    "id": 13088,
+    "monsterAmount": 4,
+    "monsterHP": 5900,
+    "monsterDefense": 45,
+    "roomId": 7
+  },
+  {
+    "id": 13089,
+    "monsterAmount": 5,
+    "monsterHP": 6000,
+    "monsterDefense": 45,
+    "roomId": 7
+  },
+  {
+    "id": 13090,
+    "monsterAmount": 5,
+    "monsterHP": 6100,
+    "monsterDefense": 45,
+    "roomId": 7
+  },
+  {
+    "id": 13091,
+    "monsterAmount": 5,
+    "monsterHP": 6200,
+    "monsterDefense": 45,
+    "roomId": 7
+  },
+  {
+    "id": 13092,
+    "monsterAmount": 5,
+    "monsterHP": 6300,
+    "monsterDefense": 45,
+    "roomId": 7
+  },
+  {
+    "id": 13093,
+    "monsterAmount": 6,
+    "monsterHP": 6400,
+    "monsterDefense": 45,
+    "roomId": 7
+  },
+  {
+    "id": 13094,
+    "monsterAmount": 6,
+    "monsterHP": 6500,
+    "monsterDefense": 45,
+    "roomId": 7
+  },
+  {
+    "id": 13095,
+    "monsterAmount": 6,
+    "monsterHP": 6600,
+    "monsterDefense": 45,
+    "roomId": 7
+  },
+  {
+    "id": 13096,
+    "monsterAmount": 3,
+    "monsterHP": 6600,
+    "monsterDefense": 50,
+    "roomId": 8
+  },
+  {
+    "id": 13097,
+    "monsterAmount": 3,
+    "monsterHP": 6700,
+    "monsterDefense": 50,
+    "roomId": 8
+  },
+  {
+    "id": 13098,
+    "monsterAmount": 3,
+    "monsterHP": 6800,
+    "monsterDefense": 50,
+    "roomId": 8
+  },
+  {
+    "id": 13099,
+    "monsterAmount": 4,
+    "monsterHP": 6900,
+    "monsterDefense": 50,
+    "roomId": 8
+  },
+  {
+    "id": 13100,
+    "monsterAmount": 4,
+    "monsterHP": 7000,
+    "monsterDefense": 50,
+    "roomId": 8
+  },
+  {
+    "id": 13101,
+    "monsterAmount": 4,
+    "monsterHP": 7100,
+    "monsterDefense": 50,
+    "roomId": 8
+  },
+  {
+    "id": 13102,
+    "monsterAmount": 4,
+    "monsterHP": 7200,
+    "monsterDefense": 50,
+    "roomId": 8
+  },
+  {
+    "id": 13103,
+    "monsterAmount": 5,
+    "monsterHP": 7300,
+    "monsterDefense": 50,
+    "roomId": 8
+  },
+  {
+    "id": 13104,
+    "monsterAmount": 5,
+    "monsterHP": 7400,
+    "monsterDefense": 50,
+    "roomId": 8
+  },
+  {
+    "id": 13105,
+    "monsterAmount": 5,
+    "monsterHP": 7500,
+    "monsterDefense": 50,
+    "roomId": 8
+  },
+  {
+    "id": 13106,
+    "monsterAmount": 6,
+    "monsterHP": 7600,
+    "monsterDefense": 50,
+    "roomId": 8
+  },
+  {
+    "id": 13107,
+    "monsterAmount": 6,
+    "monsterHP": 7700,
+    "monsterDefense": 50,
+    "roomId": 8
+  },
+  {
+    "id": 13108,
+    "monsterAmount": 4,
+    "monsterHP": 7700,
+    "monsterDefense": 55,
+    "roomId": 9
+  },
+  {
+    "id": 13109,
+    "monsterAmount": 4,
+    "monsterHP": 7750,
+    "monsterDefense": 55,
+    "roomId": 9
+  },
+  {
+    "id": 13110,
+    "monsterAmount": 4,
+    "monsterHP": 7800,
+    "monsterDefense": 55,
+    "roomId": 9
+  },
+  {
+    "id": 13111,
+    "monsterAmount": 4,
+    "monsterHP": 7850,
+    "monsterDefense": 55,
+    "roomId": 9
+  },
+  {
+    "id": 13112,
+    "monsterAmount": 5,
+    "monsterHP": 7900,
+    "monsterDefense": 55,
+    "roomId": 9
+  },
+  {
+    "id": 13113,
+    "monsterAmount": 5,
+    "monsterHP": 7950,
+    "monsterDefense": 55,
+    "roomId": 9
+  },
+  {
+    "id": 13114,
+    "monsterAmount": 5,
+    "monsterHP": 8000,
+    "monsterDefense": 55,
+    "roomId": 9
+  },
+  {
+    "id": 13115,
+    "monsterAmount": 5,
+    "monsterHP": 8050,
+    "monsterDefense": 55,
+    "roomId": 9
+  },
+  {
+    "id": 13116,
+    "monsterAmount": 5,
+    "monsterHP": 8100,
+    "monsterDefense": 55,
+    "roomId": 9
+  },
+  {
+    "id": 13117,
+    "monsterAmount": 5,
+    "monsterHP": 8150,
+    "monsterDefense": 55,
+    "roomId": 9
+  },
+  {
+    "id": 13118,
+    "monsterAmount": 6,
+    "monsterHP": 8200,
+    "monsterDefense": 55,
+    "roomId": 9
+  },
+  {
+    "id": 13119,
+    "monsterAmount": 6,
+    "monsterHP": 8250,
+    "monsterDefense": 55,
+    "roomId": 9
+  },
+  {
+    "id": 13120,
+    "monsterAmount": 3,
+    "monsterHP": 8250,
+    "monsterDefense": 60,
+    "roomId": 10
+  },
+  {
+    "id": 13121,
+    "monsterAmount": 3,
+    "monsterHP": 8300,
+    "monsterDefense": 60,
+    "roomId": 10
+  },
+  {
+    "id": 13122,
+    "monsterAmount": 3,
+    "monsterHP": 8350,
+    "monsterDefense": 60,
+    "roomId": 10
+  },
+  {
+    "id": 13123,
+    "monsterAmount": 4,
+    "monsterHP": 8400,
+    "monsterDefense": 60,
+    "roomId": 10
+  },
+  {
+    "id": 13124,
+    "monsterAmount": 4,
+    "monsterHP": 8450,
+    "monsterDefense": 60,
+    "roomId": 10
+  },
+  {
+    "id": 13125,
+    "monsterAmount": 4,
+    "monsterHP": 8500,
+    "monsterDefense": 60,
+    "roomId": 10
+  },
+  {
+    "id": 13126,
+    "monsterAmount": 4,
+    "monsterHP": 8550,
+    "monsterDefense": 60,
+    "roomId": 10
+  },
+  {
+    "id": 13127,
+    "monsterAmount": 5,
+    "monsterHP": 8600,
+    "monsterDefense": 60,
+    "roomId": 10
+  },
+  {
+    "id": 13128,
+    "monsterAmount": 5,
+    "monsterHP": 8650,
+    "monsterDefense": 60,
+    "roomId": 10
+  },
+  {
+    "id": 13129,
+    "monsterAmount": 5,
+    "monsterHP": 8700,
+    "monsterDefense": 60,
+    "roomId": 10
+  },
+  {
+    "id": 13130,
+    "monsterAmount": 6,
+    "monsterHP": 8750,
+    "monsterDefense": 60,
+    "roomId": 10
+  },
+  {
+    "id": 13131,
+    "monsterAmount": 6,
+    "monsterHP": 8800,
+    "monsterDefense": 60,
+    "roomId": 10
+  },
+  {
+    "id": 13132,
+    "monsterAmount": 3,
+    "monsterHP": 8800,
+    "monsterDefense": 60,
+    "roomId": 11
+  },
+  {
+    "id": 13133,
+    "monsterAmount": 3,
+    "monsterHP": 8850,
+    "monsterDefense": 60,
+    "roomId": 11
+  },
+  {
+    "id": 13134,
+    "monsterAmount": 3,
+    "monsterHP": 8900,
+    "monsterDefense": 60,
+    "roomId": 11
+  },
+  {
+    "id": 13135,
+    "monsterAmount": 4,
+    "monsterHP": 8950,
+    "monsterDefense": 60,
+    "roomId": 11
+  },
+  {
+    "id": 13136,
+    "monsterAmount": 4,
+    "monsterHP": 9000,
+    "monsterDefense": 60,
+    "roomId": 11
+  },
+  {
+    "id": 13137,
+    "monsterAmount": 4,
+    "monsterHP": 9050,
+    "monsterDefense": 60,
+    "roomId": 11
+  },
+  {
+    "id": 13138,
+    "monsterAmount": 4,
+    "monsterHP": 9100,
+    "monsterDefense": 60,
+    "roomId": 11
+  },
+  {
+    "id": 13139,
+    "monsterAmount": 4,
+    "monsterHP": 9150,
+    "monsterDefense": 60,
+    "roomId": 11
+  },
+  {
+    "id": 13140,
+    "monsterAmount": 5,
+    "monsterHP": 9200,
+    "monsterDefense": 60,
+    "roomId": 11
+  },
+  {
+    "id": 13141,
+    "monsterAmount": 5,
+    "monsterHP": 9250,
+    "monsterDefense": 60,
+    "roomId": 11
+  },
+  {
+    "id": 13142,
+    "monsterAmount": 5,
+    "monsterHP": 9300,
+    "monsterDefense": 60,
+    "roomId": 11
+  },
+  {
+    "id": 13143,
+    "monsterAmount": 5,
+    "monsterHP": 9350,
+    "monsterDefense": 60,
+    "roomId": 11
+  },
+  {
+    "id": 13144,
+    "monsterAmount": 3,
+    "monsterHP": 9350,
+    "monsterDefense": 65,
+    "roomId": 12
+  },
+  {
+    "id": 13145,
+    "monsterAmount": 3,
+    "monsterHP": 9400,
+    "monsterDefense": 65,
+    "roomId": 12
+  },
+  {
+    "id": 13146,
+    "monsterAmount": 3,
+    "monsterHP": 9450,
+    "monsterDefense": 65,
+    "roomId": 12
+  },
+  {
+    "id": 13147,
+    "monsterAmount": 3,
+    "monsterHP": 9500,
+    "monsterDefense": 65,
+    "roomId": 12
+  },
+  {
+    "id": 13148,
+    "monsterAmount": 3,
+    "monsterHP": 9550,
+    "monsterDefense": 65,
+    "roomId": 12
+  },
+  {
+    "id": 13149,
+    "monsterAmount": 4,
+    "monsterHP": 9600,
+    "monsterDefense": 65,
+    "roomId": 12
+  },
+  {
+    "id": 13150,
+    "monsterAmount": 4,
+    "monsterHP": 9650,
+    "monsterDefense": 65,
+    "roomId": 12
+  },
+  {
+    "id": 13151,
+    "monsterAmount": 4,
+    "monsterHP": 9700,
+    "monsterDefense": 65,
+    "roomId": 12
+  },
+  {
+    "id": 13152,
+    "monsterAmount": 4,
+    "monsterHP": 9750,
+    "monsterDefense": 65,
+    "roomId": 12
+  },
+  {
+    "id": 13153,
+    "monsterAmount": 4,
+    "monsterHP": 9800,
+    "monsterDefense": 65,
+    "roomId": 12
+  },
+  {
+    "id": 13154,
+    "monsterAmount": 5,
+    "monsterHP": 9850,
+    "monsterDefense": 65,
+    "roomId": 12
+  },
+  {
+    "id": 13155,
+    "monsterAmount": 5,
+    "monsterHP": 9900,
+    "monsterDefense": 65,
+    "roomId": 12
+  },
+  {
+    "id": 13156,
+    "monsterAmount": 3,
+    "monsterHP": 9900,
+    "monsterDefense": 65,
+    "roomId": 13
+  },
+  {
+    "id": 13157,
+    "monsterAmount": 3,
+    "monsterHP": 9950,
+    "monsterDefense": 65,
+    "roomId": 13
+  },
+  {
+    "id": 13158,
+    "monsterAmount": 3,
+    "monsterHP": 10000,
+    "monsterDefense": 65,
+    "roomId": 13
+  },
+  {
+    "id": 13159,
+    "monsterAmount": 4,
+    "monsterHP": 10050,
+    "monsterDefense": 65,
+    "roomId": 13
+  },
+  {
+    "id": 13160,
+    "monsterAmount": 4,
+    "monsterHP": 10100,
+    "monsterDefense": 65,
+    "roomId": 13
+  },
+  {
+    "id": 13161,
+    "monsterAmount": 4,
+    "monsterHP": 10150,
+    "monsterDefense": 65,
+    "roomId": 13
+  },
+  {
+    "id": 13162,
+    "monsterAmount": 4,
+    "monsterHP": 10200,
+    "monsterDefense": 65,
+    "roomId": 13
+  },
+  {
+    "id": 13163,
+    "monsterAmount": 4,
+    "monsterHP": 10250,
+    "monsterDefense": 65,
+    "roomId": 13
+  },
+  {
+    "id": 13164,
+    "monsterAmount": 5,
+    "monsterHP": 10300,
+    "monsterDefense": 65,
+    "roomId": 13
+  },
+  {
+    "id": 13165,
+    "monsterAmount": 5,
+    "monsterHP": 10350,
+    "monsterDefense": 65,
+    "roomId": 13
+  },
+  {
+    "id": 13166,
+    "monsterAmount": 5,
+    "monsterHP": 10400,
+    "monsterDefense": 65,
+    "roomId": 13
+  },
+  {
+    "id": 13167,
+    "monsterAmount": 5,
+    "monsterHP": 10450,
+    "monsterDefense": 65,
+    "roomId": 13
+  },
+  {
+    "id": 13168,
+    "monsterAmount": 3,
+    "monsterHP": 10450,
+    "monsterDefense": 70,
+    "roomId": 14
+  },
+  {
+    "id": 13169,
+    "monsterAmount": 3,
+    "monsterHP": 10500,
+    "monsterDefense": 70,
+    "roomId": 14
+  },
+  {
+    "id": 13170,
+    "monsterAmount": 3,
+    "monsterHP": 10550,
+    "monsterDefense": 70,
+    "roomId": 14
+  },
+  {
+    "id": 13171,
+    "monsterAmount": 3,
+    "monsterHP": 10600,
+    "monsterDefense": 70,
+    "roomId": 14
+  },
+  {
+    "id": 13172,
+    "monsterAmount": 3,
+    "monsterHP": 10650,
+    "monsterDefense": 70,
+    "roomId": 14
+  },
+  {
+    "id": 13173,
+    "monsterAmount": 3,
+    "monsterHP": 10700,
+    "monsterDefense": 70,
+    "roomId": 14
+  },
+  {
+    "id": 13174,
+    "monsterAmount": 4,
+    "monsterHP": 10750,
+    "monsterDefense": 70,
+    "roomId": 14
+  },
+  {
+    "id": 13175,
+    "monsterAmount": 4,
+    "monsterHP": 10800,
+    "monsterDefense": 70,
+    "roomId": 14
+  },
+  {
+    "id": 13176,
+    "monsterAmount": 4,
+    "monsterHP": 10850,
+    "monsterDefense": 70,
+    "roomId": 14
+  },
+  {
+    "id": 13177,
+    "monsterAmount": 5,
+    "monsterHP": 10900,
+    "monsterDefense": 70,
+    "roomId": 14
+  },
+  {
+    "id": 13178,
+    "monsterAmount": 5,
+    "monsterHP": 10950,
+    "monsterDefense": 70,
+    "roomId": 14
+  },
+  {
+    "id": 13179,
+    "monsterAmount": 6,
+    "monsterHP": 11000,
+    "monsterDefense": 70,
+    "roomId": 14
+  }
+]

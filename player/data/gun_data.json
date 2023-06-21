@@ -1,0 +1,42 @@
+[
+  {
+    "id": "9000",
+    "name": "돌격소총",
+    "desc": "가장 무난하고 평균적인 성능을 가진 총이다.",
+    "attackPowerFormula": "powerStat/(powerStat+100)*600",
+    "fireRateFormula": "1 / (0.05*fireRateStat + 0.5)",
+    "skill1_id": "11000",
+    "skill2_id": "11001",
+    "skill3_id": "11002"
+  },
+  {
+    "id": "9001",
+    "name": "저격소총",
+    "desc": "공격속도가 느리지만 높은 공격력과 관통력을 가지고 있다.",
+    "attackPowerFormula": "powerStat/(powerStat+100)*1200",
+    "fireRateFormula": "1 / (0.05*fireRateStat + 0.5) * 2",
+    "skill1_id": "11003",
+    "skill2_id": "11004",
+    "skill3_id": "11005"
+  },
+  {
+    "id": "9002",
+    "name": "샷건",
+    "desc": "사거리가 짧지만 3개의 기본 탄환 개수를 갖는다.",
+    "attackPowerFormula": "powerStat/(powerStat+100)*700",
+    "fireRateFormula": "1 / (0.05*fireRateStat + 0.5) / 1.2",
+    "skill1_id": "11006",
+    "skill2_id": "11007",
+    "skill3_id": "11008"
+  },
+  {
+    "id": "9003",
+    "name": "기관단총",
+    "desc": "공격력이 낮지만 빠른 연사 속도를 갖는다.",
+    "attackPowerFormula": "powerStat/(powerStat+100)*200",
+    "fireRateFormula": "1 / (0.05*fireRateStat + 0.5) / 3",
+    "skill1_id": "11009",
+    "skill2_id": "11010",
+    "skill3_id": "11011"
+  }
+]

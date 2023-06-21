@@ -1,0 +1,146 @@
+[
+  {
+    "id": 16000,
+    "name": "호문쿨루스",
+    "type": "melee",
+    "moveSpeed": 150,
+    "attackMoveSpeed": 200,
+    "knockBackResistance": 0,
+    "prefabPath": "BrainMoleMelee"
+  },
+  {
+    "id": 16001,
+    "name": "코브라",
+    "type": "range",
+    "moveSpeed": 150,
+    "attackMoveSpeed": 0,
+    "knockBackResistance": 0,
+    "prefabPath": "CobraRange"
+  },
+  {
+    "id": 16002,
+    "name": "해파리",
+    "type": "explosive",
+    "moveSpeed": 150,
+    "attackMoveSpeed": 250,
+    "knockBackResistance": 0,
+    "prefabPath": "JellyfishExplosion"
+  },
+  {
+    "id": 16003,
+    "name": "랫워리어",
+    "type": "melee",
+    "moveSpeed": 200,
+    "attackMoveSpeed": 500,
+    "knockBackResistance": 10,
+    "prefabPath": "RatfolkAxeMelee"
+  },
+  {
+    "id": 16004,
+    "name": "랫메이지",
+    "type": "range",
+    "moveSpeed": 200,
+    "attackMoveSpeed": 0,
+    "knockBackResistance": 10,
+    "prefabPath": "RatfolkMageRange"
+  },
+  {
+    "id": 16005,
+    "name": "거대파리",
+    "type": "explosive",
+    "moveSpeed": 200,
+    "attackMoveSpeed": 350,
+    "knockBackResistance": 10,
+    "prefabPath": "GiantFlyExplosive"
+  },
+  {
+    "id": 16006,
+    "name": "사악한 소환수",
+    "type": "melee",
+    "moveSpeed": 150,
+    "attackMoveSpeed": 250,
+    "knockBackResistance": 20,
+    "prefabPath": "CacodaemonMelee"
+  },
+  {
+    "id": 16007,
+    "name": "골렘",
+    "type": "range",
+    "moveSpeed": 200,
+    "attackMoveSpeed": 0,
+    "knockBackResistance": 25,
+    "prefabPath": "GolemRange"
+  },
+  {
+    "id": 16008,
+    "name": "시냅스레이저 ",
+    "type": "explosive",
+    "moveSpeed": 250,
+    "attackMoveSpeed": 400,
+    "knockBackResistance": 15,
+    "prefabPath": "FlyingBrainExplosive"
+  },
+  {
+    "id": 16009,
+    "name": "소울 리퍼",
+    "type": "melee",
+    "moveSpeed": 250,
+    "attackMoveSpeed": 300,
+    "knockBackResistance": 20,
+    "prefabPath": "ShardsoulSlayerMelee"
+  },
+  {
+    "id": 16010,
+    "name": "네오테크 소환수",
+    "type": "range",
+    "moveSpeed": 200,
+    "attackMoveSpeed": 0,
+    "knockBackResistance": 30,
+    "prefabPath": "MilitaryIncursionBotRange"
+  },
+  {
+    "id": 16011,
+    "name": "구울",
+    "type": "melee",
+    "moveSpeed": 200,
+    "attackMoveSpeed": 250,
+    "knockBackResistance": 10,
+    "prefabPath": "GhoulMelee"
+  },
+  {
+    "id": 16012,
+    "name": "코볼트 사제",
+    "type": "range",
+    "moveSpeed": 200,
+    "attackMoveSpeed": 0,
+    "knockBackResistance": 10,
+    "prefabPath": "KoboldPriestRange"
+  },
+  {
+    "id": 16013,
+    "name": "고블린 라이더",
+    "type": "melee",
+    "moveSpeed": 250,
+    "attackMoveSpeed": 250,
+    "knockBackResistance": 20,
+    "prefabPath": "GoblinMechRiderMelee"
+  },
+  {
+    "id": 16014,
+    "name": "마녀",
+    "type": "range",
+    "moveSpeed": 300,
+    "attackMoveSpeed": 0,
+    "knockBackResistance": 10,
+    "prefabPath": "WitchRange"
+  },
+  {
+    "id": 16015,
+    "name": "사이클롭스",
+    "type": "melee",
+    "moveSpeed": 200,
+    "attackMoveSpeed": 300,
+    "knockBackResistance": 30,
+    "prefabPath": "CyclopsMelee"
+  }
+]

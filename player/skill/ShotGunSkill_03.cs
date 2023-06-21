@@ -14,7 +14,7 @@ public class ShotGunSkill_03 : PlayerActiveSkill
         this.transform.localPosition = Vector2.zero;
         this.knockbackSpeed = 50000;
         base.Init(gunShell);
-        this.damage = this.damage = InfoManager.instance.statInfo.BattleRate * 15;
+        this.damage = InfoManager.instance.statInfo.BattleRate * 15;
     }
 
     public void Update()

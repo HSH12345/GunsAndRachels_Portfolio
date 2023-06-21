@@ -30,7 +30,6 @@ public class AssultRifleSkill_03 : PlayerActiveSkill
         this.damage = InfoManager.instance.statInfo.BattleRate * 10;
     }
 
-
     public void Update()
     {
         Collider2D[] colliders = Physics2D.OverlapAreaAll(this.leftTop.transform.position, this.rightBottom.transform.position);

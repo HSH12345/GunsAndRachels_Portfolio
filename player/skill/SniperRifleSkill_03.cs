@@ -14,7 +14,7 @@ public class SniperRifleSkill_03 : PlayerActiveSkill
             this.GetComponent<SpriteRenderer>().flipX = true;
         this.knockbackSpeed = 80000;
         base.Init(gunShell);
-        this.damage = this.damage = this.damage = InfoManager.instance.statInfo.BattleRate * 33;
+        this.damage = InfoManager.instance.statInfo.BattleRate * 33;
     }
 
     public void Update()
