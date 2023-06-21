@@ -38,6 +38,15 @@
 
 게임 내의 아이템을 획득하여 기본 총기를 변경할 수 있습니다. 이 때 총기에 따라 스킬, 탄환 모양, 공격속도, 공격력 공식 등이 다르게 적용됩니다.
 
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/550e88fc-88e0-4883-b5d6-e151752f58fc" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/8fc6736e-f1f1-4d43-b6e5-c5a7ae2fe799" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/5167eddd-e769-4b60-8ae8-408953442003" width="50%" height="50%">
+
+*탄환*
+
+총기 숙련도 레벨이 10, 20, 30일 때마다 탄환의 모양이 변경됩니다.
+
 <br/><br/>
 # 스킬
 
