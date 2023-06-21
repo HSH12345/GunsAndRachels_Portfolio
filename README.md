@@ -164,4 +164,68 @@
 
 플레이어가 기본 공격을 하는 동안 유탄을 추가로 발사하여 적에게 피해를 입힙니다.
 
+
+
+# 몬스터
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/e3095872-e3b0-4582-a9be-e9380dcf1d8f" width="50%" height="50%">
+
+*길찾기*
+
+모든 몬스터들은 A* 알고리즘을 활용하여 장애물을 피해 길찾기를 하며 이동합니다. 
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/fffd50f6-ea7e-4c1d-b8c2-eec7c177a052" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/9546ab6d-4d5c-41e7-b3b4-d7398074cbe1" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/fe06eb99-f356-4991-8f3e-8a51f282a1dc" width="50%" height="50%">
+
+*근접 몬스터*
+
+근접 몬스터는 플레이어와의 거리를 계산하여 특정 거리 이하에서는 이동속도가 빨라지며 공격 애니메이션이 실행됩니다. 
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/db0dac15-f52f-4be5-a8a9-23643e91af0e" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/d9b67829-3d38-4fb3-a445-96da9508ff7e" width="50%" height="50%">
+
+*대시 몬스터*
+
+대시 몬스터는 플레이어와의 거리를 계산하여 특정 거리 이하에서는 대시공격을 합니다. 공격 시 slash 이펙트 범위에 trigger collider를 생성하여 공격합니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/75b03fb5-35bd-4c69-8f65-37cb5fa18458" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/9596ca4e-2696-4e30-8afb-08a9770fd06d" width="50%" height="50%">
+
+*레이지 몬스터*
+
+레이지 몬스터는 랜덤한 시간마다 분노상태가 되어 이동속도가 빨라지고 넉백을 무시합니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/3a57d38e-5bbf-478a-b63a-e94bf73dd681" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/62e374bb-25d5-4504-9105-cf0936f94e31" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/cc71c28a-6851-405d-b095-9be3d6c2d250" width="50%" height="50%">
+
+*원거리 몬스터*
+
+원거리 몬스터는 플레이어와의 거리를 계산하여 특정 거리 이하에서는 탄환을 발사합니다. 특정 몬스터는 2가지 패턴의 원거리 공격을 합니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/30fbdced-d2fc-4028-9d33-6255d080dbed" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/a774a922-b941-4e30-86c0-907ec3a04d5f" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/8748ff1e-227e-441f-88ce-f61e97e0c9ac" width="50%" height="50%">
+
+*멀티샷 몬스터*
+
+멀티샷 몬스터는 플레이어와의 거리를 계산하여 특정 거리 이하에서는 여러 갈래의 탄환을 발사합니다.
+
+
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/1bb0bb80-9d16-4533-a9d9-b736f919e262" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/b8e079bc-0864-4918-ae7d-db5bc8d1ca6b" width="50%" height="50%">
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/3b0bcb12-6a22-4efe-9c26-dd429c5cf140" width="50%" height="50%">
+
+*자폭 몬스터*
+
+자폭 몬스터는 플레이어와의 거리를 계산하여 특정 거리 이하에서 플레이어에게 대시하여 자폭합니다.
+
+
+
 [구글 플레이 바로가기](https://play.google.com/store/apps/details?id=com.teamvizeon.gunsandrachels&hl=ko&gl=KR)
