@@ -362,6 +362,13 @@
 데이터를 참조하여 대화 내용을 리스트에 저장한 후 보여줍니다. 텍스트가 순차적으로 출력되며, 해당 택스트가 출력중일 때 터치하면 모든 텍스트가 출력되고 모든 텍스트가 출력되었다면 화살표 이미지를 활성화합니다. 또한, 리스트에 저장된 모든 텍스트를 출력한 후 터치하면 UI가 비활성화 됩니다.
 
 
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/2bf28971-5f18-48b4-ac31-b4ce7bc3866d" width="50%" height="50%">
+
+*고대유물 정보*
+
+해당 위치를 터치하는 동안 데이터를 참조하여 획득한 고대유물(특수 능력)의 정보를 보여줍니다.
+
 
 <br/><br/><br/>
 [구글 플레이 바로가기](https://play.google.com/store/apps/details?id=com.teamvizeon.gunsandrachels&hl=ko&gl=KR)
