@@ -298,6 +298,70 @@
 <br/><br/>
 # UI
 
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/83f4a07f-bb4d-46ed-953e-324bafd3e153" width="50%" height="50%">
+
+*총기 숙련도*
+
+몬스터를 죽일 때마다 좌상단 슬라이더가 올라갑니다. 이 때 메터리얼을 교체하여 반짝이는 효과 생기며 레벨이 오를 때마다 총기를 강화할 수 있도록 팝업 UI가 활성화 됩니다. 이 때 UI 내부의 요소는 5가지의 총기 특성 중 랜덤하게 3가지가 보여집니다.
+
+
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/8316c995-3f1c-4f52-a42f-f97b11888c6b" width="50%" height="50%">
+
+*능력치 강화*
+
+플레이어의 능력치를 강화할 수 있도록 UI가 구성되어있으며 버튼을 오래 클릭하고 있으면 자동으로 버튼에 해당하는 수치가 점점 빠르게 상습합니다. 또한, 플레이어의 능력치를 전부 초기화할 수 있으며 해당 데이터는 json파일에 저장됩니다.
+
+
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/b20e73c5-903b-4c57-916c-cd93df628e09" width="50%" height="50%">
+
+*도움말*
+
+도움말을 스크롤뷰 형식으로 구현하였습니다.
+
+
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/d3b07262-71f3-482f-b37c-40f7c8fab31a" width="50%" height="50%">
+
+*결과창*
+
+데이터를 참조하여 이전 던전의 결과를 확인할 수 있습니다.
+
+
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/077ed45d-d700-4beb-81f2-f91e0bd9dc6e" width="50%" height="50%">
+
+*체력*
+
+플레이어의 HP를 나타내며 피격 시 메터리얼을 교체하여 반짝이는 효과가 만들어냅니다.
+
+
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/fb53f4f8-d12c-4e8b-915d-3b247b489680" width="50%" height="50%">
+
+*재화*
+
+재화를 수급하거나 사용할 때마다 해당 데이터를 참조하여 해당 값을 UI로 표시합니다.
+
+
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/c7748819-0e92-488e-8915-400c6ba8b602" width="50%" height="50%">
+
+*데미지 텍스트*
+
+몬스터에게 가해진 데미지를 생성합니다. 이 때, 배지어 곡선의 각각의 포인트를 Randomize하여 데미지 텍스트가 생동감있게 움직이도록 합니다.
+
+
+<br/>
+<img src = "https://github.com/HSH12345/GunsAndRachels_Portfolio/assets/124248037/fe3701e7-aa09-48cd-894b-3affa238e04f" width="50%" height="50%">
+
+*다이얼로그*
+
+데이터를 참조하여 대화 내용을 리스트에 저장한 후 보여줍니다. 텍스트가 순차적으로 출력되며, 해당 택스트가 출력중일 때 터치하면 모든 텍스트가 출력되고 모든 텍스트가 출력되었다면 화살표 이미지를 활성화합니다. 또한, 리스트에 저장된 모든 텍스트를 출력한 후 터치하면 UI가 비활성화 됩니다.
+
+
 
 <br/><br/><br/>
 [구글 플레이 바로가기](https://play.google.com/store/apps/details?id=com.teamvizeon.gunsandrachels&hl=ko&gl=KR)
